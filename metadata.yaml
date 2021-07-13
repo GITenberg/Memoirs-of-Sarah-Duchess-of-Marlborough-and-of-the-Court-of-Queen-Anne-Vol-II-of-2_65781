@@ -1,5 +1,8 @@
 _repo: Memoirs-of-Sarah-Duchess-of-Marlborough-and-of-the-Court-of-Queen-Anne-Vol-II-of-2_65781
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65781-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomson, A. T., Mrs.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '9623'
     url: http://www.gutenberg.org/2009/agents/9623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65781#Memoirs-of-Sarah-Duchess-of-Marlborough-and-of-the-Court-of-Queen-Anne-Vol-II-of-2
 gutenberg_issued: '2021-07-06'
 gutenberg_type: Text
 identifiers:
